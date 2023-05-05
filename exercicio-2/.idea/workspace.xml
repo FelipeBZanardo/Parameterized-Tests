@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61109e01-5a49-4e24-9d02-3e56a11fe71d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PLdWfJfgavt8ekvznKaYEsOOyF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/felip/OneDrive/Área de Trabalho/Parameterized Tests/exercicio-2/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\felip\OneDrive\Área de Trabalho\Parameterized Tests\exercicio-2\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tech.ada" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VotoTest">
+    <configuration name="VotoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercicio-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.ada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.ada" />
+      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VotoTest.deveVerificarSeNaoTemDireitoAVotar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercicio-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.ada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.ada" />
+      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeNaoTemDireitoAVotar(int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VotoTest.deveVerificarSeVotoEhFacultativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercicio-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.ada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.ada" />
+      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeVotoEhFacultativo(int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VotoTest.deveVerificarSeVotoEhObrigatorio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercicio-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.ada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.ada" />
+      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeVotoEhObrigatorio(int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VotoTest" />
+        <item itemvalue="JUnit.VotoTest.deveVerificarSeNaoTemDireitoAVotar" />
+        <item itemvalue="JUnit.VotoTest.deveVerificarSeVotoEhFacultativo" />
+        <item itemvalue="JUnit.VotoTest.deveVerificarSeVotoEhObrigatorio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61109e01-5a49-4e24-9d02-3e56a11fe71d" name="Changes" comment="" />
+      <created>1683240331099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683240331099</updated>
+      <workItem from="1683240332388" duration="2620000" />
+      <workItem from="1683302733307" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
