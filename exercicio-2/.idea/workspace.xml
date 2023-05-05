@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61109e01-5a49-4e24-9d02-3e56a11fe71d" name="Changes" comment="" />
+    <list default="true" id="e4e6dbfa-0be1-4251-9265-f2de17973758" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/src/main/java/tech/ada/Voto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/src/test/java/tech/ada/VotoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/target/classes/tech/ada/Voto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-1/target/test-classes/tech/ada/VotoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tech/da/Voto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tech/da/VotoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-2.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,26 +60,27 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2PLdWfJfgavt8ekvznKaYEsOOyF" />
+  <component name="ProjectId" id="2PNlwhfaFo7viD2iDgsFb3sKE5A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/felip/OneDrive/Área de Trabalho/Parameterized Tests/exercicio-2/src/main/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/felip/OneDrive/Área de Trabalho/Parameterized Tests/exercicio-2/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\felip\OneDrive\Área de Trabalho\Parameterized Tests\exercicio-2\src\main\java" />
@@ -58,69 +89,21 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="tech.ada" />
+      <recent name="tech.da" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VotoTest">
+  <component name="RunManager">
     <configuration name="VotoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercicio-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.ada.*" />
+          <option name="PATTERN" value="tech.da.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tech.ada" />
-      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
+      <option name="PACKAGE_NAME" value="tech.da" />
+      <option name="MAIN_CLASS_NAME" value="tech.da.VotoTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VotoTest.deveVerificarSeNaoTemDireitoAVotar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercicio-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.ada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.ada" />
-      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
-      <option name="METHOD_NAME" value="deveVerificarSeNaoTemDireitoAVotar(int,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VotoTest.deveVerificarSeVotoEhFacultativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercicio-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.ada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.ada" />
-      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
-      <option name="METHOD_NAME" value="deveVerificarSeVotoEhFacultativo(int,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VotoTest.deveVerificarSeVotoEhObrigatorio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercicio-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.ada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.ada" />
-      <option name="MAIN_CLASS_NAME" value="tech.ada.VotoTest" />
-      <option name="METHOD_NAME" value="deveVerificarSeVotoEhObrigatorio(int,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,22 +111,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.VotoTest" />
-        <item itemvalue="JUnit.VotoTest.deveVerificarSeNaoTemDireitoAVotar" />
-        <item itemvalue="JUnit.VotoTest.deveVerificarSeVotoEhFacultativo" />
-        <item itemvalue="JUnit.VotoTest.deveVerificarSeVotoEhObrigatorio" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61109e01-5a49-4e24-9d02-3e56a11fe71d" name="Changes" comment="" />
-      <created>1683240331099</created>
+      <changelist id="e4e6dbfa-0be1-4251-9265-f2de17973758" name="Changes" comment="" />
+      <created>1683305672003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683240331099</updated>
-      <workItem from="1683240332388" duration="2620000" />
-      <workItem from="1683302733307" duration="777000" />
+      <updated>1683305672003</updated>
+      <workItem from="1683305673310" duration="349000" />
     </task>
     <servers />
   </component>
